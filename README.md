@@ -14,6 +14,9 @@ git clone https://github.com/chaeeerin/PersonalCS.git
 ```
 cd face-parsing
 ```
+```
+sh download.sh
+```
 
 colab 환경에서 진행하여 requirement.txt 다운로드 없이 진행했습니다.
 
